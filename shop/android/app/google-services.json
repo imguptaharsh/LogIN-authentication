@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "281465461068",
+    "project_id": "flutter-project-2b85f",
+    "storage_bucket": "flutter-project-2b85f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281465461068:android:72156fee5fd34d6e7897e9",
+        "android_client_info": {
+          "package_name": "com.example.shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281465461068-oilin567bkdp1840judjktb9vmk0hec3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA8ATJzKFkNcDHB_gF4Sj6WNrPWjGE-JI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281465461068-oilin567bkdp1840judjktb9vmk0hec3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "281465461068-8a8ji7coi3huphglv727nihafq69al9d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.shopApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281465461068:android:cd5f00591f7072b57897e9",
+        "android_client_info": {
+          "package_name": "com.example.shop_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281465461068-oilin567bkdp1840judjktb9vmk0hec3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA8ATJzKFkNcDHB_gF4Sj6WNrPWjGE-JI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281465461068-oilin567bkdp1840judjktb9vmk0hec3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "281465461068-8a8ji7coi3huphglv727nihafq69al9d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.shopApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
