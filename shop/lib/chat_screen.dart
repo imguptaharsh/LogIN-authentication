@@ -20,6 +20,7 @@ class ChatScreen extends StatelessWidget {
               child: CircularProgressIndicator(),
             );
           }
+
           final documents = streamSnapshot.data.docs;
           return ListView.builder(
             itemCount: documents?.length,
